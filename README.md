@@ -1,16 +1,16 @@
-# Serverless-App-on-Azure
+# Serverless-App-on-Azure:
 &nbsp;&nbsp;&nbsp;Serverless Angular Application on Azure.
 
-# Required
+# Required:
 
-# Installation 
+# Installation: 
 
 # Information
   &nbsp;&nbsp;&nbsp;Authors:
   <br>
       &nbsp;&nbsp;&nbsp;<a href="https://github.com/Taleb01">Taleb O. M.</a>
       
-# References
+# References:
   &nbsp;&nbsp;&nbsp;More Information:
   <br>
      &nbsp;&nbsp;&nbsp;<a href="https://angular.io/">Angular framework</a>
