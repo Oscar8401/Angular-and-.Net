@@ -22,6 +22,7 @@ Node.js v6.5.0 or later.
 <ul>3. Clean up:
 <li>serverless remove</li>
 </ul>
+
 # Information
   &nbsp;&nbsp;&nbsp;Authors:
   <br>
