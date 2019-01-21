@@ -1,3 +1,6 @@
+# The repository has been moved to bitbucket.
+# For further information please contact me <cite>taleb_n1@hotmail.com</cite>
+
 # Serverless-App-on-Azure:
 &nbsp;&nbsp;&nbsp;Serverless Angular Application on Azure.
 
