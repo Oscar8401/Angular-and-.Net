@@ -2,6 +2,10 @@
 &nbsp;&nbsp;&nbsp;Serverless Angular Application on Azure.
 
 # Required:
+<br>Node.js v6.5.0 or later.
+<br>Serverless cli v1.9.0 or later.
+<br>Azure plugin that allows working with Azure function.
+<br>Aure account.
 
 # Installation: 
 
