@@ -2,13 +2,26 @@
 &nbsp;&nbsp;&nbsp;Serverless Angular Application on Azure.
 
 # Required:
-<br>Node.js v6.5.0 or later.
+Node.js v6.5.0 or later.
 <br>Serverless cli v1.9.0 or later.
 <br>Azure plugin that allows working with Azure function.
 <br>Aure account.
 
-# Installation: 
-
+# Installation:
+<ul>1. Create a new service:
+  <li>$serverless create--template azure-node.js--path my-service--name my-unique-name</li>
+  <li>$cd my-service</li>
+  <li>$npm install</li>
+</ul>
+<ul>2. Deploy and test:
+  <li>1. Dwploy the service: serverless deploy</li>
+  <li>2. Deploy the function: serverless deploy function -f hello</li>
+  <li>3. Invoke the function: serverless invoke -f hello</li>
+  <li>4. Fetch the function logs: serverless logs -f hello -t</li>
+</ul>
+<ul>3. Clean up:
+<li>serverless remove</li>
+</ul>
 # Information
   &nbsp;&nbsp;&nbsp;Authors:
   <br>
