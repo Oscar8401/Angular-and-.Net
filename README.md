@@ -17,7 +17,7 @@ Node.js v6.5.0 or later.
   <li>$npm install</li>
 </ul>
 <ul>2. Deploy and test:
-  <li>1. Dwploy the service: serverless deploy</li>
+  <li>1. Deploy the service: serverless deploy</li>
   <li>2. Deploy the function: serverless deploy function -f hello</li>
   <li>3. Invoke the function: serverless invoke -f hello</li>
   <li>4. Fetch the function logs: serverless logs -f hello -t</li>
